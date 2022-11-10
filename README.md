@@ -1,4 +1,4 @@
-#SPRING BOOT REST API ENDS POINTS
+** SPRING BOOT REST API ENDS POINTS **
 
 POST API SEARCH https://restful2022.herokuapp.com/departments example  of the json body {
 
